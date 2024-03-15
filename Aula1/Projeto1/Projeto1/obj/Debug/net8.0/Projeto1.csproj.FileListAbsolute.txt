@@ -1,0 +1,15 @@
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.exe
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.deps.json
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.runtimeconfig.json
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.dll
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfo.cs
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.sourcelink.json
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.dll
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\refint\Projeto1.dll
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.genruntimeconfig.cache
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\Projeto1\Projeto1\obj\Debug\net8.0\ref\Projeto1.dll
