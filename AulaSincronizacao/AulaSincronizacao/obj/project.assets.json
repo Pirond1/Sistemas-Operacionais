@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Sistemas-Operacionais\\Aula1\\ExAvaliativo1\\ExAvaliativo1\\ExAvaliativo1.csproj",
-      "projectName": "ExAvaliativo1",
-      "projectPath": "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Sistemas-Operacionais\\Aula1\\ExAvaliativo1\\ExAvaliativo1\\ExAvaliativo1.csproj",
+      "projectUniqueName": "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Sistemas-Operacionais\\AulaSincronizacao\\AulaSincronizacao\\AulaSincronizacao.csproj",
+      "projectName": "AulaSincronizacao",
+      "projectPath": "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Sistemas-Operacionais\\AulaSincronizacao\\AulaSincronizacao\\AulaSincronizacao.csproj",
       "packagesPath": "C:\\Users\\gustavopirondi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Sistemas-Operacionais\\Aula1\\ExAvaliativo1\\ExAvaliativo1\\obj\\",
+      "outputPath": "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Sistemas-Operacionais\\AulaSincronizacao\\AulaSincronizacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
