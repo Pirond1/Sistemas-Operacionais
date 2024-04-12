@@ -1,0 +1,15 @@
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\bin\Debug\net8.0\ProjetoMemória.exe
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\bin\Debug\net8.0\ProjetoMemória.deps.json
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\bin\Debug\net8.0\ProjetoMemória.runtimeconfig.json
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\bin\Debug\net8.0\ProjetoMemória.dll
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\bin\Debug\net8.0\ProjetoMemória.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.AssemblyInfoInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.AssemblyInfo.cs
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.sourcelink.json
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.dll
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\refint\ProjetoMemória.dll
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ProjetoMemória.genruntimeconfig.cache
+C:\Users\gustavopirondi\Documents\GitHub\Sistemas-Operacionais\ProjetoMemória\ProjetoMemória\obj\Debug\net8.0\ref\ProjetoMemória.dll
